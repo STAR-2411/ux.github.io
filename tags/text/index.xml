@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text on OMGSTAR</title>
+    <link>http://www.example.com/tags/text/</link>
+    <description>Recent content in text on OMGSTAR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dissertation</title>
+      <link>http://www.example.com/projects/dissertation/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/dissertation/</guid>
+      <description>老年人自我感知老化的随机截距潜在转变分析</description>
+    </item>
+    
+    <item>
+      <title>TCL</title>
+      <link>http://www.example.com/projects/tcl/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/tcl/</guid>
+      <description>可用性测试    色彩评估TCL海信评估体验评估    体验评估案例NPS回访    </description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>http://www.example.com/projects/data-visualization/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/data-visualization/</guid>
+      <description>ggplot(temperatures, aes(x = Year, y = Mean)) +  # Previous time series code goes here  theme(  text = element_text(family = &amp;#34;Roboto&amp;#34;),  plot.margin = unit(rep(1, 4), &amp;#34;cm&amp;#34;),  plot.title = element_text(size = 20,  color = &amp;#34;#22292F&amp;#34;,  face = &amp;#34;bold&amp;#34;,  margin = margin(b = 10)),  plot.subtitle = element_text(size = 17,  margin = margin(b = 25)),  plot.caption = element_text(size = 12,  margin = margin(t = 15),  color = &amp;#34;#606F7B&amp;#34;),  panel.</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://www.example.com/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
